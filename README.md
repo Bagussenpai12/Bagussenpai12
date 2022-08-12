@@ -1,5 +1,7 @@
-### hi  muhammad bagus kim sepana👋
+### hi muhammad bagus kim sepana👋
 
+ ![Foto Keterangan](/koboaja.jpg)
+ 
 <!--
 **Bagussenpai12/Bagussenpai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
