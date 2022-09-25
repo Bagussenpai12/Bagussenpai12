@@ -1,9 +1,7 @@
-### Hallo My Name Is Muhammad Bagus Kim Sepana👋
+###Hallo My Name Is Muhammad Bagus Kim Sepana👋
 
 ![kaela2](https://user-images.githubusercontent.com/94151204/192153058-3eaa5d05-1f00-4c60-b05f-079374fc0821.jpeg)
- 
- 
- 
+
 <!--
 **Bagussenpai12/Bagussenpai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
