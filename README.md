@@ -1,6 +1,6 @@
 ### Hallo My Name Is Muhammad Bagus Kim Sepana👋
 
- ![Foto Keterangan](/kaela.jpg)
+ ![Foto Keterangan](/kaela.jpeg)
  
  
 <!--
