@@ -1,6 +1,7 @@
 ### Hallo My Name Is Muhammad Bagus Kim Sepana👋
 
- ![Foto Keterangan](/dingin.jpeg)
+ ![Foto Keterangan](/dingin.png)
+ 
  
  
 <!--
